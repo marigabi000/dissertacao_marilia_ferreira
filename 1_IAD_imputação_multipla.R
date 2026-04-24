@@ -20,7 +20,7 @@ invisible(lapply(pacotes, library, character.only = TRUE))
 
 # BANCO -------------------------------------------------------------------
 
-vox2025 <- read_sav("INCT_ReDem.sav")
+vox2025 <- read_sav("vox2025.sav")
 
 # CODIFICAÇÃO DAS VARIÁVEIS -----------------------------------------------
 
